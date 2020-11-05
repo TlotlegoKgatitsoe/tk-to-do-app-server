@@ -1,0 +1,52 @@
+.table {
+  width: 90%;
+}
+
+.first-row {
+  background-color: beige;
+}
+
+.first-row td {
+  padding: 16px 0px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tr-number {
+  font-weight: bold;
+  text-align: center;
+  width: 5%;
+}
+
+.td-data {
+  padding: 8px;
+}
+
+.row-data:hover {
+  background-color: #000;
+  cursor: pointer;
+  color: #fff;
+}
+
+td {
+  padding: 16px 0px;
+  width: 30%;
+}
+
+.username-label {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.user-info {
+  margin-top: 16px;
+}
+
+.task-item-admin:hover {
+  cursor: pointer;
+  color: #6200ee;
+}
+
+.last-button {
+  margin-left: 32px;
+}
